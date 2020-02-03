@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A promise hashing method",
   "main": "dist/promiseHash.min.js",
+  "private": false,
   "scripts": {
     "test": "mocha",
     "build": "rimraf ./dist && rollup -c rollup.config.js",

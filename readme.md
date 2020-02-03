@@ -3,7 +3,7 @@
 ### Installation
 
 ```javascript
-npm install promise-hash
+npm install @twuig/promise-hash
 ```
 
 
