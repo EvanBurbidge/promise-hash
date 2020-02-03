@@ -1,5 +1,5 @@
 {
-  "name": "promise-hash",
+  "name": "@twuig/promise-hash",
   "version": "1.0.0",
   "description": "A promise hashing method",
   "main": "dist/promiseHash.min.js",
