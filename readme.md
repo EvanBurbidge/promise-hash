@@ -2,10 +2,12 @@
 
 ### Installation
 
-`npm install promise-hash`
+```javascript
+npm install promise-hash
+```
 
 
-### Usage
+###Usage
 
 ```javascript
 
