@@ -8,6 +8,4 @@ function promiseHash(hash) {
       }, {}));
 }
 
-module.exports = {
-  promiseHash,
-};
+module.exports = promiseHash;
